@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently starting my own bussiness.
+- 🌱 I’m currently learning SpringBoot
+- 🤔 I’m looking for help with Redis
+
 <!--
 **heyi755/heyi755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
