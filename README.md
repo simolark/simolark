@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm He Yi</h1>
 <h3 align="center">I am trying to starting my business now.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyi755&label=Profile%20views&color=0e75b6&style=flat" alt="heyi755" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyi755" alt="heyi755" /></a> </p>
-
 - 📝 I regularly write articles on [blog.sepbf.com](blog.sepbf.com)
 
 <h3 align="left">Connect with me:</h3>
