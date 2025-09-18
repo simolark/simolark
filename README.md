@@ -8,4 +8,4 @@ I've been researching topics related to **Reinforcement Learning & Differential 
 
 My personal homepage address is: https://simolark.com
 
-And I also write blogs on: https://blog.simolark.com
+And I also write blogs on: https://simolark.com/blog
